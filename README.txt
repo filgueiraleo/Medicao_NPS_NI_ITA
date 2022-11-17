@@ -13,8 +13,6 @@ O arquivo 'mic_correction_explained.m' é um código que explica como é feita a
 
 O arquivo 'processamento_NPS.m' é o código que realiza a correção de campo livre para campo difuso dos dados obtidos na medição e plota o resultado para fins de comparação. 
 
-OBS* Em 'processamento_NPS_testes.m' foram realizados alguns testes utilizando a função de interpolação makima do Matlab e a função 'ameliorate_vec_modified.m', do professor Will. Acrescentei mais dois argumentos na função (n e beta da função 'resample') para retirar uma oscilação que ocorria no fim da curva.
-
 At.te,
 
 Leo.
